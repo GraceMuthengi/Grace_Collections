@@ -34,6 +34,8 @@ https://templatemo.com/tm-599-noir-fashion
                 <li><a href="/about-us" class="nav-link">About Us</a></li>
                 <li><a href="/shop" class="nav-link">Shop</a></li>
                 <li><a href="/contact-us" class="nav-link">Contact Us</a></li>
+                <li><a href="/faqs" class="nav-link">FAQs</a></li>
+
             </ul>
             <div class="menu-toggle" id="menuToggle">
                 <span></span>
